@@ -1,0 +1,2 @@
+So ovoj java kod e sozdadena forma za vnesuvanje na igracite na eden fudbalski klub. 
+Koristeno e Eclipse Indigo i GitHub plugin. 
